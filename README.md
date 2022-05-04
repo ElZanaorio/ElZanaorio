@@ -1,5 +1,5 @@
 <h1 align="center">Hey, soy Jorge Adrian</h1>
-<h3 align="center">Aficionado desde los 13 años. Todos los días estoy aprendiendo algo nuevo.</h3>
+<h3 align="center">Aficionado desde los 13 años. Todos los días estoy aprendiendo algo nuevo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elzanaorio&label=Profile%20views&color=0e75b6&style=flat" alt="elzanaorio" /> </p>
 
