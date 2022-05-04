@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elzanaorio&label=Profile%20views&color=0e75b6&style=flat" alt="elzanaorio" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elzanaorio" alt="elzanaorio" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/jete14j" target="blank"><img src="https://img.shields.io/twitter/follow/jete14j?logo=twitter&style=for-the-badge" alt="jete14j" /></a> </p>
 
 - 🌱 Estoy aprendiendo **C#, Unity y Python**
